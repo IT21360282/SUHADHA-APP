@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053309587084",
+    "project_id": "suhadha-5a02f",
+    "storage_bucket": "suhadha-5a02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053309587084:android:516910130191985e9275a9",
+        "android_client_info": {
+          "package_name": "com.example.suhadha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiXg53B3iGNcBpi4RlucNA7XdgTEjCLcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
